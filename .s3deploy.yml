@@ -1,3 +1,9 @@
+source: public/ 
+region: eu-north-1
+bucket: staticbattery.com 
+acl: public-read 
+distribution-id: E15NLNM65B1T1F 
+
 routes:
     - route: "^.+\\.(js|css|svg|ttf)$"
       #  cache static assets for 20 years
