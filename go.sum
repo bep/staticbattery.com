@@ -14,3 +14,5 @@ github.com/bep/gallerydeluxe v0.9.3 h1:+m0eEzt+NUdHeXUozVjM4ppoDO5ecVn6Eoa8q33E2
 github.com/bep/gallerydeluxe v0.9.3/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
 github.com/bep/gallerydeluxe v0.10.0 h1:0CXOArpCD6S0XdhFpXuShnlqx8VJBCrWhKdgi/xdRjE=
 github.com/bep/gallerydeluxe v0.10.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
+github.com/bep/gallerydeluxe v0.12.0 h1:Sb6I9WYitsNdgHyS8xxTLUzNpSrUeE9Ihwh1RGmgeEc=
+github.com/bep/gallerydeluxe v0.12.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
