@@ -16,3 +16,9 @@ github.com/bep/gallerydeluxe v0.10.0 h1:0CXOArpCD6S0XdhFpXuShnlqx8VJBCrWhKdgi/xd
 github.com/bep/gallerydeluxe v0.10.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
 github.com/bep/gallerydeluxe v0.12.0 h1:Sb6I9WYitsNdgHyS8xxTLUzNpSrUeE9Ihwh1RGmgeEc=
 github.com/bep/gallerydeluxe v0.12.0/go.mod h1:sUfRcjREo6DwxPo0sMp0TAxNZiGreOY6DY2dWGpSeR8=
+github.com/bep/hugo-mod-minimalanalytics v0.0.0-20251104150629-825b0ccf8190 h1:pEkjY6NyERVlT9QXy2qPCCSAJGkOIV/HLmjpnxexhwo=
+github.com/bep/hugo-mod-minimalanalytics v0.0.0-20251104150629-825b0ccf8190/go.mod h1:3QVkKqSikBRTI+hS3dm/zCAfGukd+opSfAwfjkyxqIw=
+github.com/bep/hugo-mod-minimalanalytics v0.1.0 h1:7/mm1aahmNSUgr0zmHNJarmyBdSSZqYppIlhIboIKek=
+github.com/bep/hugo-mod-minimalanalytics v0.1.0/go.mod h1:3QVkKqSikBRTI+hS3dm/zCAfGukd+opSfAwfjkyxqIw=
+github.com/jahilldev/minimal-analytics v0.0.0-20220825110705-ee335ed38334 h1:r8/jLqGw5uwSmgJ4eSGbxa1XBaSIkp3MY99GhY61NeE=
+github.com/jahilldev/minimal-analytics v0.0.0-20220825110705-ee335ed38334/go.mod h1:w4l2fXZWGxmcVQfLLBdTqUT6HpSIA9FhmUtVArJFLYw=
