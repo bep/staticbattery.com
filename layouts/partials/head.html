@@ -1,10 +1,8 @@
-
 {{ $css := resources.Get "css/styles.css" }}
-{{ if hugo.IsProduction}}
-    {{ $css = $css | minify | fingerprint }}
+{{ if hugo.IsProduction }}
+  {{ $css = $css | minify | fingerprint }}
 {{ end }}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}"></link>
-{{ with site.Params.plausible_domain }}
-<script defer data-domain="{{ . }}" src="https://plausible.io/js/plausible.js"></script>
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+{{ if hugo.IsProduction }}
+  {{ partial "minimalanalytics.html" . }}
 {{ end }}
-
