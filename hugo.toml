@@ -5,8 +5,8 @@ disableKinds = ["section", "taxonomy", "term"]
 [params]
 
     [params.gallerydeluxe]
-        shuffle     = false
-        reverse     = true
+        shuffle     = true
+        reverse     = false
         enable_exif = false
 
     [params.minimalanalytics]
